@@ -1,0 +1,7 @@
+ticker,weight,asset_class,sector,region
+SPY,0.3,Equity,Broad,US
+AGG,0.2,Bond,AggBond,US
+EUINFRA,0.15,Equity,Infrastructure,EU
+EUFIN,0.1,Equity,Financials,EU
+JP,0.15,Equity,Japan Broad,JP
+EMB,0.1,Bond,EM Bond,EM
